@@ -4,7 +4,7 @@ body {
 }
 
 hr {
-    width: 30%;
+    width: 40%;
 }
 
 .my-faq {
@@ -13,9 +13,8 @@ hr {
 }
 
 .row {
-    margin: 0;
-    padding: 0;
-    width: 60%;
+    margin: 0 auto;
+    width: 50%;
 }
 
 
